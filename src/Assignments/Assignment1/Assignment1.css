@@ -1,0 +1,19 @@
+.mainDiv{
+    display: flex;
+    justify-content: space-around; 
+}
+.btnDiv{
+    margin-top: 200px;
+}
+.btn{
+    border: none;
+    background-color: rgb(66, 66, 239);
+    padding: 30px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    border-radius: 20px;
+}
+h1{
+    color:#6666ff;
+}

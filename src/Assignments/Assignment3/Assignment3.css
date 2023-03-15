@@ -1,0 +1,37 @@
+.signupDiv{
+border: 5px #5c5cd6 solid;
+padding:50px;
+border-radius: 50px;
+background-color: rgb(57, 57, 57);
+}
+.signinDiv{
+    border: 5px #5c5cd6 solid;
+    padding:50px;
+    border-radius: 50px;
+
+}
+input{
+
+    font-size: 20px;
+    margin-top: 15px;
+    padding: 20px;
+    border-color: aqua;
+}
+input:focus{
+    border-color: blue;
+}
+h3{
+    font-size: 30px;
+    color: dodgerblue;
+    text-decoration:underline;
+}
+.btnSubmit{
+    border:none;
+    border-radius: 10px;
+    font-weight: bolder;
+    color: white;
+    background-color: #4747d1;
+}
+.btnSubmit:hover{
+    color: rgb(255, 17, 0);
+}
